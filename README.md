@@ -1,2 +1,2 @@
-# [calc.](http://127.0.0.1:5500/)
+# [calc.](https://kanisaket10.github.io/calc./)
 Minor project- Calculator 
